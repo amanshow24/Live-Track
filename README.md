@@ -6,6 +6,7 @@ LiveTrack is a real-time location sharing app where users can join a room, share
 Live Link:
 
 - https://live-track-nu.vercel.app/
+
 Local development:
 
 - Frontend: http://localhost:5173
