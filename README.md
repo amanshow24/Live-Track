@@ -3,7 +3,9 @@
 LiveTrack is a real-time location sharing app where users can join a room, share live updates, view active participants, and work with a compact DigiPin location code. It is built with a React + Vite frontend, a Node.js + Express + Socket.IO backend, and MongoDB for room storage.
 
 ## Live Demo
+Live Link:
 
+- https://live-track-nu.vercel.app/
 Local development:
 
 - Frontend: http://localhost:5173
@@ -63,7 +65,7 @@ Optional production values can point to your hosted MongoDB database and custom 
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <github-repo-url>
 ```
 
 2. Move into the project folder
